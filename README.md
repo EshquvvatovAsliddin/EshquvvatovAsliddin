@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **JavaScript, ReactJs, Vuejs**
 
-- 👯 I’m looking to collaborate on **Hydra-Landing-Page**
-
 - 🤝 I’m looking for help with **𝙅𝙖𝙨𝙪𝙧𝙗𝙚𝙠 𝙃𝙖𝙮𝙙𝙖𝙧𝙤𝙫 ha7darov**
 
 - 💬 Ask me about **react and vue**
